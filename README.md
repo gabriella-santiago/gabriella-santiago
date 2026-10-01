@@ -1,71 +1,36 @@
-<h1 align="center">Olá, eu sou a Gabriella Santiago 👋</h1>
+# Olá, eu sou a Gabriella 👋
 
-<h3 align="center">📊 Data Analytics | Business Intelligence</h3>
+## 👩‍💻 Sobre mim
+Estou construindo minha trajetória na área de **Análise de Dados**, com foco em Business Intelligence, análise de processos e resolução de problemas. Concluí o bootcamp **Data Girls (Re)Start** e estou desenvolvendo projetos práticos com Power BI, SQL, Python e Pandas.
 
-<p align="center">
-Transformando dados em insights por meio de análises, dashboards e soluções orientadas por dados.
-</p>
+Meu objetivo é estruturar, limpar e modelar dados brutos, transformando-os em informações visuais e estratégicas que apoiem a tomada de decisões.
 
----
+Tenho interesse em modelagem de dados, visualização de indicadores (Data Visualization), análise exploratória e melhoria contínua por meio da prática.
 
-# 👩‍💻 Sobre mim
+📍 Belo Horizonte, MG
 
-Sou estudante e estou construindo minha trajetória na área de **Análise de Dados**. 
-
-Com foco em Business Intelligence, análise de processos e resolução de problemas, desenvolvo projetos práticos aplicando **Power BI, SQL, Python e Pandas**. Meu objetivo principal é aprender a estruturar, limpar e modelar dados brutos, transformando-os em informações visuais e estratégicas que facilitem a tomada de decisões corporativas.
-
-Tenho grande interesse em modelagem de dados, visualização de indicadores (Data Visualization), análise exploratória e melhoria contínua através da prática.
-
----
-
-# 🚀 Atualmente estudando
-
+## 🚀 Estudando e praticando
 - 📊 Power BI
 - 🗄️ SQL
-- 🐍 Python & Pandas
+- 🐍 Python e Pandas
 - 📈 Excel
-- 📊 Estatística para Dados
+- 🔢 Estatística aplicada a dados
 - 🌐 Git e GitHub
 
----
+## 🛠️ Tecnologias e Ferramentas
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-# 🛠️ Tecnologias e Ferramentas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>
+## 📁 Projetos
+🚧 Estou construindo meus primeiros projetos de análise de dados (Power BI, SQL e Python). Em breve eles aparecem por aqui!
 
 ---
 
-# 📂 Portfólio em Construção
-
-*Atualmente estou dedicando meu tempo aos estudos e desenvolvendo meus primeiros projetos práticos para aplicar os conhecimentos adquiridos. Em breve, você encontrará aqui:*
-
-- 📊 **Dashboards em Power BI** — Desenvolvimento de relatórios dinâmicos aplicados a cenários de negócios (Comercial, Financeiro, RH).
-- 🗄️ **Consultas e Modelagem em SQL** — Queries estruturadas para manipulação, filtragem e extração de bancos de dados.
-- 🐍 **Análise Exploratória com Python** — Scripts utilizando Pandas para limpeza, tratamento e geração de insights de dados brutos.
-
-*Os repositórios serão publicados e linkados aqui assim que os projetos forem finalizados! 🚀*
-
----
-
-# 🎯 Objetivos
-
-- ✅ Construir um portfólio sólido com foco em problemas de negócios
-- ✅ Evoluir em modelagem de dados e DAX no Power BI
-- ✅ Aprimorar consultas complexas em SQL
-- ✅ Desenvolver automações e análises avançadas com Python
-- ✅ Conquistar minha primeira oportunidade no mercado de Dados
-
----
-
-# 📫 Vamos nos conectar?
+# 📫 Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriellasantiago1/">
@@ -75,10 +40,4 @@ Tenho grande interesse em modelagem de dados, visualização de indicadores (Dat
 
 ---
 
-<div align="center">
 
-### 💡 "Dados bem analisados transformam informações em decisões inteligentes."
-
-Obrigado por visitar meu perfil! 🚀
-
-</div>
